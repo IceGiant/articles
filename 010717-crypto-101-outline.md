@@ -10,5 +10,5 @@
    - Credit card information for eCommerce
    - Digital Rights Management
    - Digital signing to validate text
-     - Touch on what authentication is, whiy it's useful
+     - Touch on what authentication is, why it's useful
 
