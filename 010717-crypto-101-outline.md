@@ -1,4 +1,4 @@
-# Crypto 101: An Introduction to Cryptography
+# Crypto 101: A Gentle Introduction to Cryptography
 
 1. How do we know the government can't listen in on things?
   1. No magic in how it works
@@ -11,4 +11,5 @@
    - Digital Rights Management
    - Digital signing to validate text
      - Touch on what authentication is, why it's useful
-
+3. Steps you can take right now to take advantage of encryption for privacy
+  - Several application recommendations, with justification
